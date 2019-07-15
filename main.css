@@ -33,7 +33,7 @@ header p {
   align-items: center;
   background-image: url('imgaddress');
   background-size: auto;
-  color: #ffffff;
+  color: 	#000000;
   height: 250px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
