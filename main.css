@@ -31,7 +31,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://raincoatwebgallery.s3.amazonaws.com/raincoatgirladdress.jpg');
+  background-image: url('imgaddress');
   background-size: auto;
   color: #ffffff;
   height: 250px;
