@@ -31,7 +31,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://raincoatwebgallery.s3.amazonaws.com/heavy+rain.jpg');
+  background-image: url('https://raincoatwebgallery.s3.amazonaws.com/Rain+Coat+Model.jpg');
   background-size: auto;
   color: 	#000000;
   height: 250px;
@@ -62,19 +62,19 @@ section .row img {
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: #fbd1d5;
+  color: #000000;
   text-shadow: none;
   background-color: #ffffff;
 }
 
 .btn.btn-primary:hover {
-  color: #ffffff;
+  color: #000000;
   background-color: #fbd1d5;
 }
 
 .btn-secondary {
   background-color: #E8DFE0;
-  color: #ffffff;
+  color: #000000;
   margin: 0 0 30px;
 }
 
