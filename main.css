@@ -32,9 +32,9 @@ header p {
   display: flex;
   align-items: center;
   background-image: url('https://raincoatwebgallery.s3.amazonaws.com/raincoatgirladdress.jpg');
-  background-size: cover;
+  background-size: auto;
   color: #ffffff;
-  height: 500px;
+  height: 250px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
