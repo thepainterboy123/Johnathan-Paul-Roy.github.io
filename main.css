@@ -32,7 +32,7 @@ header p {
   display: flex;
   align-items: center; 
   background-image: url('https://raincoatwebgallery.s3.amazonaws.com/Rain+Coat+Model.jpg');
-  background-size: width: 120px; height: 65px
+  background-size: length: 120px 65px
   color: 	#000000;
   height: 250px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
