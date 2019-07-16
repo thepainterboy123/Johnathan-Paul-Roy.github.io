@@ -28,9 +28,9 @@ header p {
   margin: 0;
 }
 
-.jumbotron {
+.jumbotron { height: auto ; width: auto ;
   display: flex;
-  align-items: center; height: auto ; width: auto ;
+  align-items: center; 
   background-image: url('https://raincoatwebgallery.s3.amazonaws.com/Rain+Coat+Model.jpg');
   background-size: auto;
   color: 	#000000;
