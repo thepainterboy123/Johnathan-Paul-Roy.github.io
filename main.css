@@ -30,7 +30,7 @@ header p {
 
 .jumbotron {
   display: flex;
-  align-items: center;
+  align-items: center; height: auto ; width: auto ;
   background-image: url('https://raincoatwebgallery.s3.amazonaws.com/Rain+Coat+Model.jpg');
   background-size: auto;
   color: 	#000000;
