@@ -3,10 +3,10 @@
  // ++++++++++++++++++++++++++++++++++++
 error_reporting(0);
 
-  
+
  // configuration
- 
-$email_it_to = "www.thepainterboy123@gmail.com";
+
+$email_it_to = "www.raincoatrestorations@gmail.com";
 
 $error_message = "Please complete the form first";
 
@@ -16,7 +16,7 @@ $email=$_POST['email'];
 $subject=$_POST['subject'];
 $body=$_POST['body'];
 
-  
+
 if(!isset($rnd) || !isset($name) || !isset($email) || !isset($subject) || !isset($body)) {
 	echo $error_message;
     die();
